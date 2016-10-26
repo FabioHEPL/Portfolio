@@ -1,0 +1,16 @@
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Release\XMLPrint.exe.config
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Release\XMLPrint.exe
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Release\XMLPrint.pdb
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Release\Interop.SHDocVw.dll
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Release\XMLPrint.csproj.ResolveComReference.cache
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Release\XMLPrint.exe
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Release\XMLPrint.pdb
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Release\Interop.SHDocVw.dll
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Release\XMLPrint.exe.config
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Release\Interop.SHDocVw.dll
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Release\XMLPrint.csproj.ResolveComReference.cache
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Release\XMLPrint.exe
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Release\XMLPrint.pdb
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Release\XMLPrint.exe
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Release\XMLPrint.pdb
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Release\Interop.SHDocVw.dll

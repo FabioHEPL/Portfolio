@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Name>eCommerce</Name>
+    <ProjectGuid>f4f75bcc-bd1f-4fa7-8ccb-3432f4ee3ea0</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>eCommerce</RootNamespace>
+    <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
+    <AssemblyName>eCommerce</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <IncludeDebugInformation>true</IncludeDebugInformation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <IncludeDebugInformation>false</IncludeDebugInformation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="admin.php" />
+    <Compile Include="agenda.php" />
+    <Compile Include="contact.php" />
+    <Compile Include="artistes\feint.php" />
+    <Compile Include="header.php" />
+    <Compile Include="index.php" />
+    <Compile Include="partenaires\heineken.php" />
+    <Compile Include="partenaires\nrj.php" />
+    <Compile Include="partenaires\province-liege.php" />
+    <Compile Include="participants.php" />
+    <Compile Include="artistes\mitis.php" />
+    <Compile Include="partenaires.php" />
+    <Compile Include="artistes\uppermost.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="artistes\" />
+    <Folder Include="partenaires\" />
+    <Folder Include="styles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="inscription.php" />
+    <Content Include="styles\style.css" />
+  </ItemGroup>
+</Project>

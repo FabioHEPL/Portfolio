@@ -1,0 +1,17 @@
+<intervention seqno="0102" streetname="rue du thier à liège" houseno="H 14 accès via fond des tawes" cityname="4000 liège (liège)" longitude="5.59504739046146" latitude="50.6594221774348" description="Tronconnage" remarks="[1/06/2016 11:46:16. 161530520]&#xA;rue bloquée par travaux arbre déraciné entraine câbles HT (torsadés)" callref="161530520" date="2016-06-01" time="11:48:22" phoneno="497130365" callername="45 No listing found." controlroomname="CS100 Liège" sectorcode="LUIK" interventioncode="3080211">
+<trip servicetype="BW" servicename="SP_Liège-IILE"/>
+<trip servicetype="POL" servicename="POL LIEGE 101"/>
+	<fireservices>
+		<service servicetype="BW" servicename="SP_Liège-IILE"/>
+		<service servicetype="BW" servicename="Poste avancé ANS"/>
+		<service servicetype="BW" servicename="Poste avancé GRIVEGNEE"/>
+		<service servicetype="BW" servicename="Poste avancé  GR[C243]E-HOLLOGNE"/>
+		<service servicetype="BW" servicename="Poste avancé OUPEYE"/>
+		<service servicetype="BW" servicename="Poste avancé SERAING"/>
+		<service servicetype="BW" servicename="HVZ ZWL TONGEREN"/>
+		<service servicetype="BW" servicename="Poste avancé FLEMALLE"/>
+		<service servicetype="BW" servicename="SP Herve"/>
+		<service servicetype="BW" servicename="SP Battice"/>
+	</fireservices>
+</intervention>
+

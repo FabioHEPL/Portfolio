@@ -1,0 +1,18 @@
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Debug\XMLPrint.exe.config
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Debug\XMLPrint.exe
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Debug\XMLPrint.pdb
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Debug\XMLPrint.exe
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Debug\XMLPrint.pdb
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Debug\Interop.SHDocVw.dll
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Debug\XMLPrint.csproj.ResolveComReference.cache
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\obj\Debug\XMLPrint.csprojResolveAssemblyReference.cache
+D:\Documents\IILE Pompiers\XMLPrint\XMLPrint\bin\Debug\Interop.SHDocVw.dll
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Debug\XMLPrint.exe.config
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Debug\Interop.SHDocVw.dll
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Debug\XMLPrint.csproj.ResolveComReference.cache
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Debug\XMLPrint.exe
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Debug\XMLPrint.pdb
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Debug\XMLPrint.exe
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Debug\XMLPrint.pdb
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\bin\Debug\Interop.SHDocVw.dll
+D:\Artist\School\Pompiers\XMLPrint\Projet-VS\XMLPrint\obj\Debug\XMLPrint.csprojResolveAssemblyReference.cache

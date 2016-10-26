@@ -1,0 +1,27 @@
+body {
+    font-family: 'Trebuchet MS';
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+#records {
+    table-layout: fixed;
+    width: 100%;   
+}
+
+
+#records td {
+    font-size: 1em;
+    padding-bottom: 1%;
+}
+
+#records .label {
+	width: 30%;
+	vertical-align: top;
+}
+#records .values {
+	width: 70%;
+	vertical-align: top;
+}

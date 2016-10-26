@@ -1,0 +1,7 @@
+// PERIODIC TABLE OF ELEMENTS
+//   NAME		| SYMBOL 	| AT NUMBER | N° SHELLS | ELECTRONS PER SHELL
+Hydrogen		| H 		| 1			| 1			| 1
+Helium			| He 		| 2			| 1			| 2
+Lithium			| Li 		| 3			| 2			| 2 1
+Beryllium		| Be 		| 4			| 2			| 2 2
+Boron			| Bo 		| 5			| 4			| 5 8 9 4

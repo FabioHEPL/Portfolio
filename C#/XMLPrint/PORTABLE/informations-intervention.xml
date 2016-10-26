@@ -1,0 +1,26 @@
+<main>
+	<!-- CODE D'INTERVENTION -->
+	<information>
+		<label>Code d'intervention</label>
+		<chemin-balise>intervention</chemin-balise>
+		<nom-attribut>interventioncode</nom-attribut>
+	</information>
+
+	<!-- CODE SECTEUR -->
+	<information>
+		<label>Code secteur</label>
+		<chemin-balise>intervention</chemin-balise>
+		<nom-attribut>sectorcode</nom-attribut>
+	</information>
+
+	<!-- NOM SALLE CONTRÔLE -->
+	<information>
+		<label>Nom salle de contrôle</label>
+		<chemin-balise>intervention</chemin-balise>
+		<nom-attribut>controlroomname</nom-attribut>
+	</information>
+
+
+		
+	
+</main>

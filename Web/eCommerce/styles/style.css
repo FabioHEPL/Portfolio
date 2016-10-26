@@ -1,0 +1,526 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'SourceSansPro', sans-serif;
+}
+
+#main-wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url("../fonts/SourceSansPro-Regular.otf");
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* -------------------------------------- 
+   @ BARRE DES LIENS                     
+   -------------------------------------- */
+#navigation-bar {
+    height: 60px;
+    background-color: #F2F4F8;
+}
+
+#navigation-bar ul {
+    list-style-type: none;
+}
+
+#navigation-bar ul li {
+    float: left;
+
+    margin: 7px 50px 0px 0px;
+    padding: 10px 10px 10px 10px;
+
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 1px;    
+}
+
+#navigation-bar ul li:nth-child(1) {
+    margin-left: 60px;
+}
+
+#navigation-bar ul li:nth-child(6) {
+    
+}
+
+
+#navigation-bar .logo-link {
+    padding: 0px 0px 0px 0px;
+}
+
+#navigation-bar .logo-link img {
+    width: 42px;
+}
+
+
+/* -------------------------------------- 
+   @ LOGO HEADER                   
+   -------------------------------------- */
+#logo-header {
+    text-align: center;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+/* -------------------------------------- 
+   @ MAIN
+   -------------------------------------- */
+main {
+    background-color: #EDF2F3;
+
+    min-height: 760px;
+    border-right: 1px solid #EAEEF1;
+    border-left: 1px solid #EAEEF1;
+}
+
+
+/* -------------------------------------- 
+   @ CONTENEUR MAIN
+   -------------------------------------- */
+#main-content-wrapper {
+    float: right;
+    
+
+    width: 650px;
+    margin-right: 20px;
+
+    height: auto;
+}
+
+
+/* -------------------------------------- 
+   @ TITRE ONGLETS CONTENU
+   -------------------------------------- */
+#section-title-nav {
+    list-style-type: none;
+}
+
+.section-title, .section-title-active {
+    float: left;
+
+    padding: 10px 15px 5px 15px;
+
+    margin-top: 0px;
+    height: 30px;   
+   
+}
+
+#section-title-nav a:hover {
+    color: #788188;
+}
+
+.section-title-active {
+    background-color: white;    
+    color: #788188;
+}
+
+/* -------------------------------------- 
+   @ CONTENEUR MAIN
+   -------------------------------------- */
+main {   
+    margin-bottom: 50px;
+    height: 800px;
+}
+
+
+#main-content {
+    float: right;
+    
+    width: 698px;
+
+    margin-top: 0px;
+    margin-right: 0px;
+    height: 750px;
+    background-color: white;
+}
+
+
+/* -------------------------------------- 
+   @ LISTE PARTICIPANTS
+   -------------------------------------- */
+#artist-table {    
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 10px;
+    
+
+    border-collapse: collapse;
+}
+
+
+#artist-table a {
+    color: black;
+    text-decoration: none;
+}
+
+#artist-table a:hover { 
+     color: #788188;
+}
+
+
+
+#artist-table .artist {
+  
+}
+
+.artist .rank, .name, .votes {
+    padding: 10px 10px 10px 10px;
+}
+
+.artist .rank {
+    width: 60px;
+}
+
+.artist .name {
+    width: 480px;  
+
+}
+
+.artist .votes {
+    width: 120px;
+}
+
+
+#artist-table tr {
+    border-bottom: 1px solid #EAEEF1;
+    background-color: white;
+}
+
+#artist-table td {
+    padding: 10px 10px 10px 10px
+}
+
+.vote-artist {
+    font-size: 14px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 12px;
+}
+
+/* -------------------------------------- 
+   @ MENU LATERAL OPTIONS
+   -------------------------------------- */
+#side-options {
+    display: block;
+    float: left;
+    width: 300px;
+
+    height: 800px;
+    
+    text-align: center;
+}
+
+/* -------------------------------------- 
+   @ DESCRIPTION PARTICIPANTS
+   -------------------------------------- */
+#artist-description {
+    list-style-type: none;
+     color: #788188;
+}
+
+
+#artist-description .logo {
+    margin-top: 20px;
+    margin-bottom: -5px;
+}
+
+#artist-description .logo img {
+    border: 1px solid #EAEEF1;
+}
+
+#artist-description .name {
+    font-size: 24px;
+}
+
+#artist-description .best-tracks .title {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+#artist-description .best-tracks {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+
+#artist-description .biography .title {
+    font-size: 24px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+#artist-description .biography {
+    padding: 0px 20px 0px 20px;
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: justify;
+    
+}
+
+
+
+
+/* -------------------------------------- 
+   @ S'INSCRIRE COMME PARTICIPANT
+   -------------------------------------- */
+#inscription-participant {    
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 5px solid #F2F4F8;
+
+    padding: 15px 15px 0px 15px;
+
+ 
+
+}
+
+#inscription-participant label {   
+    display: block;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 5px;
+
+
+}
+
+#inscription-participant input {
+    display: block;
+
+    font-size: 14px;
+
+    font-weight: normal;
+    width: 320px;   
+
+    margin-bottom: 10px;
+}
+
+
+
+
+#inscription-participant .envoyer {
+    display: block;
+    width: 100px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 1px 0px 1px 0px;
+
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+#inscription-participant .envoyer:hover {
+    cursor: pointer;
+}
+
+
+/* -------------------------------------- 
+   @ AGENDA
+   -------------------------------------- */
+#days-list {
+    margin-top: 40px;
+}
+
+#days-list .day, .day-active {
+    margin: 0 auto;
+    width: 100px;
+
+    border: 1px solid gray;
+
+    margin-top: 40px;
+
+    padding: 10px 10px 10px 10px;
+}
+
+#days-list .day-active {
+    background-color: white;
+}
+
+
+/* -------------------------------------- 
+   @ LINE-UP
+   -------------------------------------- */
+#lineup {
+    padding: 10px 0px 0px 10px;
+}
+
+#lineup .show {
+    border-bottom: 1px solid #EAEEF1;
+    padding: 10px 10px 10px;
+}
+
+
+/* -------------------------------------- 
+   @ DESCRIPTION EVENEMENT
+   -------------------------------------- */
+#event-description {
+    color: #788188;    
+}
+
+#event-description .title {
+    margin-top: 30px;
+    font-size: 24px;
+}
+
+#event-description .description {
+    margin-top: 30px;
+    font-size: 16px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+}
+
+/* -------------------------------------- 
+   @ GALLERIE
+   -------------------------------------- */
+#gallerie {
+    margin: 25px 0px 0px 30px;
+}
+
+#gallerie .image, .partenaire {
+    float: left;
+    margin: 0px 30px 10px 0px;
+
+    border: 1px solid gray;
+    padding: 5px 5px 0px 5px;
+
+    opacity: 0.87;
+}
+
+
+#gallerie .image:nth-child(3n), .partenaire:nth-child(3n) {
+    margin-right: 0px;
+}
+
+#gallerie .image img, .partenaire img {
+    width: 180px;
+}
+
+
+/* -------------------------------------- 
+   @ PARTENAIRES
+   -------------------------------------- */
+#partenaire-description {
+    color: #788188; 
+}
+
+#partenaire-description .title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+
+/* -------------------------------------- 
+   @ NOUS CONTACTER
+   -------------------------------------- */
+#nous-contacter {    
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 5px solid #F2F4F8;
+
+    height: 550px;
+
+    padding: 15px 15px 0px 15px;
+
+
+}
+
+#nous-contacter label {   
+    display: block;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+#nous-contacter input {
+    display: block;
+    font-size: 14px;
+
+    font-weight: normal;
+    width: 320px;  
+    height: 20px; 
+}
+
+
+#nous-contacter .envoyer {
+    display: block;
+    width: 100px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 1px 0px 1px 0px;
+
+    margin-bottom: 30px;
+}
+
+#nous-contacter .envoyer:hover {
+    cursor: pointer;
+}
+
+#nous-contacter .message {
+    height: 300px;
+}
+
+
+/* -------------------------------------- 
+   @ CONNEXION ADMIN
+   -------------------------------------- */
+#connexion-admin {    
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 5px solid #F2F4F8;
+
+    padding: 15px 15px 0px 15px;
+}
+
+#connexion-admin label {   
+    display: block;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 5px;
+
+}
+
+#connexion-admin input {
+    display: block;
+
+    font-size: 14px;
+
+    font-weight: normal;
+    width: 320px;   
+
+    margin-bottom: 10px;
+}
+
+
+#connexion-admin .envoyer {
+    display: block;
+    width: 100px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 1px 0px 1px 0px;
+
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+#connexion-admin .envoyer:hover {
+    cursor: pointer;
+}
+
